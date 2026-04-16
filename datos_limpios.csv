@@ -1,0 +1,8 @@
+id,nombre,edad,correo,salario,fecha_registro
+1,Juan Perez,25.0,juan@example.com,15000.0,2023-10-01 00:00:00.000000
+2,Maria Lopez,30.4,correo_invalido,20000.0,2026-04-16 00:45:13.572825
+3,Carlos Ruiz,30.4,carlos@example.com,18000.0,2026-04-16 00:45:13.572825
+4,Desconocido,40.0,correo_invalido,18000.0,2023-01-04 00:00:00.000000
+5,Luis Gomez,29.0,luis@example.com,18000.0,2026-04-16 00:45:13.572825
+6,Sofia Torres,31.0,sofia@example.com,22000.0,2026-04-16 00:45:13.572825
+7,Pedro Diaz,27.0,pedro@example.com,17000.0,2026-04-16 00:45:13.572825
